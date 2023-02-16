@@ -1,2 +1,2 @@
-# project by Thotapalli Akhil, Rakshitha Balaji
+# project by Thotapalli Akhila, Rakshitha Balaji
 Alzheimers disease analysis using Machine Learning
