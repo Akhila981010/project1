@@ -1,2 +1,2 @@
-# Alzheimers disease analysis using Machine Learning by Thotapalli Akhila, Rakshitha Balaji
-Alzheimers disease analysis using Machine Learning
+# Alzheimer's Disease Analysis using Machine Learning by Thotapalli Akhila, Rakshitha Balaji
+Alzheimer's Disease Analysis using Machine Learning
