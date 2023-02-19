@@ -1,10 +1,9 @@
 # Alzheimer's Disease Analysis using Machine Learning 
-Project Guide: Dr.Daneil Alex Anad
 ALZHEIMER’S DISEASE ANALYSIS USING MACHINE LEARNING Submitted in partial fulfillment of the requirements for the award ofBachelor of Engineering Degree in
 BIOINFORMATICS 
 By
-BALAJI RAKSHITHA (Register No. 3622010)
 THOTAPALLI AKHILA (Register No. 3622048)
+BALAJI RAKSHITHA (Register No. 3622010)
 We are pleased to acknowledge our sincere thanks to Board of Management of
 SATHYABAMA UNIVERSITY for their kind encouragement in doing this project and for
 completing it successfully. We are grateful to them.
