@@ -1,12 +1,8 @@
-# Alzheimer's Disease Analysis using Machine Learning by Thotapalli Akhila, Rakshitha BalajiP
+# Alzheimer's Disease Analysis using Machine Learning 
 Project Guide: Dr.Daneil Alex Anad
-ALZHEIMER’S DISEASE ANALYSIS USING MACHINE LEARNING
-Submitted in partial fulfillment of the requirements for the award of
-
-Bachelor of Engineering Degree in
-BIOINFORMATICS
+ALZHEIMER’S DISEASE ANALYSIS USING MACHINE LEARNING Submitted in partial fulfillment of the requirements for the award ofBachelor of Engineering Degree in
+BIOINFORMATICS 
 By
-
 BALAJI RAKSHITHA (Register No. 3622010)
 THOTAPALLI AKHILA (Register No. 3622048)
 We are pleased to acknowledge our sincere thanks to Board of Management of
